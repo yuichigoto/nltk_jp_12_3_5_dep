@@ -7,7 +7,6 @@
 関連リンクは以下のとおりです。
 - [NLTK Book](http://www.nltk.org/book/)
 - [第12章「Pythonによる日本語自然言語処理」](http://www.nltk.org/book-jp/ch12.html)：「入門 自然言語処理」の著者である萩原氏が当該部分をWebページとして公開している
--
 
 ## 書き直し部分
 
